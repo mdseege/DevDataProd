@@ -33,7 +33,7 @@ server <- function(input, output) {
   })
 }
 
-# Run the application 
+# Run the application 1
 shinyApp(ui = ui, server = server)
 
 
